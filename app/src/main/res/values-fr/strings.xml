@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Devoirs</string>
+    <string name="btnAssignment1">Devoir 1</string>
+    <string name="tvHeader_assignment1">Diese Anwendung unterstützt die Sprachen Englisch (Royaume-Uni), Hindi (Indien), Deutsch (Deutsch) et Français (Francais).</string>
+    <string name="tv1_assignment1">“Tu peux être ce que tu veux. Vous pouvez être la quantité infinie de choses que sont les gens.”</string>
+    <string name="tv2_assignment1">“Répandez l\'amour partout où vous allez.”</string>
+    <string name="tv3_assignment1">“Vous n\'êtes jamais trop vieux pour vous fixer un autre objectif ou pour rêver un nouveau rêve.”</string>
+    <string name="tv4_assignment1">“Vous définissez votre propre vie. Ne laissez pas d\'autres personnes écrire votre script.”</string>
+    <string name="tv5_assignment1">“Le succès n\'est pas définitif, l\'échec n\'est pas fatal : c\'est le courage de continuer qui compte.”</string>
+</resources>

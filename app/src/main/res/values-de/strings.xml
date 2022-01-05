@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zuordnungen</string>
+    <string name="btnAssignment1">Zuordnungen 1</string>
+    <string name="tvHeader_assignment1">Diese Anwendung unterstützt die Sprachen Englisch (UK), Hindi (Indien), Deutsch (Deutsch) und Francais (Frankreich).</string>
+    <string name="tv1_assignment1">“Du kannst alles sein. Du kannst die unendliche Menge von Dingen sein, die Menschen sind.”</string>
+    <string name="tv2_assignment1">“Verbreite Liebe, wohin du auch gehst.”</string>
+    <string name="tv3_assignment1">“Sie sind nie zu alt, um sich ein neues Ziel zu setzen oder einen neuen Traum zu träumen.”</string>
+    <string name="tv4_assignment1">“Du bestimmst dein eigenes Leben. Lassen Sie nicht zu, dass andere Ihr Skript schreiben.”</string>
+    <string name="tv5_assignment1">“Erfolg ist nicht endgültig, Scheitern ist nicht fatal: Der Mut zum Weitermachen zählt.”</string>
+</resources>

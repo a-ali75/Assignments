@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">असाइनमेंट</string>
+    <string name="btnAssignment1">असाइनमेंट 1</string>
+    <string name="tvHeader_assignment1">यह एप्लिकेशन अंग्रेजी (यूके), हिंदी (भारत), डच (जर्मन) और फ़्रांसीसी (फ़्रांस) भाषाओं का समर्थन करता है।</string>
+    <string name="tv1_assignment1">“तुम सब कुछ हो सकते हो। आप अनंत मात्रा में चीजें हो सकते हैं जो लोग हैं।”</string>
+    <string name="tv2_assignment1">“आप जहां भी जाएं प्यार फैलाएं।”</string>
+    <string name="tv3_assignment1">“आप एक और लक्ष्य निर्धारित करने या एक नया सपना देखने के लिए कभी भी बूढ़े नहीं होते हैं।”</string>
+    <string name="tv4_assignment1">“आप अपने जीवन को स्वयं परिभाषित करते हैं। अन्य लोगों को अपनी स्क्रिप्ट न लिखने दें।”</string>
+    <string name="tv5_assignment1">“सफलता अंतिम नहीं है, असफलता घातक नहीं है: यह जारी रखने का साहस है जो मायने रखता है।”</string>
+</resources>

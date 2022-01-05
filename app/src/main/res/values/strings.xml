@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignments</string>
+    <string name="btnAssignment1">Assignment 1</string>
+    <string name="tvHeader_assignment1">This application supports English (UK), Hindi (India), Deutsch (German) and Francais (France) languages.</string>
+    <string name="tv1_assignment1">“You can be everything. You can be the infinite amount of things that people are.”</string>
+    <string name="tv2_assignment1">“Spread love everywhere you go.”</string>
+    <string name="tv3_assignment1">“You are never too old to set another goal or to dream a new dream.”</string>
+    <string name="tv4_assignment1">“You define your own life. Don’t let other people write your script.”</string>
+    <string name="tv5_assignment1">“Success is not final, failure is not fatal: it is the courage to continue that counts.”</string>
+</resources>
