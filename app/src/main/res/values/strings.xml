@@ -9,4 +9,12 @@
     <string name="tv5_assignment1">“Success is not final, failure is not fatal: it is the courage to continue that counts.”</string>
     <string name="enableDarkMode">Enable Dark Mode</string>
     <string name="disableDarkMode">Disable Dark Mode</string>
+    <string name="language_hint">Languages</string>
+    <string name="toast_lang_not_supported">System Language is not supported by this application, hence setting up English (UK) as the default language</string>
+    <string-array name="languages">
+        <item>English (UK)</item>
+        <item>हिंदी (भारत)</item>
+        <item>Français (France)</item>
+        <item>Deutsch (German)</item>
+    </string-array>
 </resources>

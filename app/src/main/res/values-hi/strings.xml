@@ -10,4 +10,12 @@
     <string name="tv5_assignment1">“सफलता अंतिम नहीं है, असफलता घातक नहीं है: यह जारी रखने का साहस है जो मायने रखता है।”</string>
     <string name="enableDarkMode">डार्क मोड सक्षम करें</string>
     <string name="disableDarkMode">डार्क मोड अक्षम करें</string>
+    <string name="toast_lang_not_supported">System Language is not supported by this application, hence setting up English (UK) as the default language</string>
+    <string name="language_hint">भाषा</string>
+    <string-array name="languages">
+        <item>English (UK)</item>
+        <item>हिंदी (भारत)</item>
+        <item>Français (France)</item>
+        <item>Deutsch (German)</item>
+    </string-array>
 </resources>

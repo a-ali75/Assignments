@@ -10,4 +10,12 @@
     <string name="tv5_assignment1">“Erfolg ist nicht endgültig, Scheitern ist nicht fatal: Der Mut zum Weitermachen zählt.”</string>
     <string name="enableDarkMode">Dunkelmodus aktivieren</string>
     <string name="disableDarkMode">Dunkelmodus deaktivieren</string>
+    <string name="toast_lang_not_supported">System Language is not supported by this application, hence setting up English (UK) as the default language</string>
+    <string name="language_hint">Sprache</string>
+    <string-array name="languages">
+        <item>English (UK)</item>
+        <item>हिंदी (भारत)</item>
+        <item>Français (France)</item>
+        <item>Deutsch (German)</item>
+    </string-array>
 </resources>
