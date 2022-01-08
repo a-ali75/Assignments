@@ -8,4 +8,6 @@
     <string name="tv3_assignment1">“आप एक और लक्ष्य निर्धारित करने या एक नया सपना देखने के लिए कभी भी बूढ़े नहीं होते हैं।”</string>
     <string name="tv4_assignment1">“आप अपने जीवन को स्वयं परिभाषित करते हैं। अन्य लोगों को अपनी स्क्रिप्ट न लिखने दें।”</string>
     <string name="tv5_assignment1">“सफलता अंतिम नहीं है, असफलता घातक नहीं है: यह जारी रखने का साहस है जो मायने रखता है।”</string>
+    <string name="enableDarkMode">डार्क मोड सक्षम करें</string>
+    <string name="disableDarkMode">डार्क मोड अक्षम करें</string>
 </resources>

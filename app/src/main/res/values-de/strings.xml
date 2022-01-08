@@ -8,4 +8,6 @@
     <string name="tv3_assignment1">“Sie sind nie zu alt, um sich ein neues Ziel zu setzen oder einen neuen Traum zu träumen.”</string>
     <string name="tv4_assignment1">“Du bestimmst dein eigenes Leben. Lassen Sie nicht zu, dass andere Ihr Skript schreiben.”</string>
     <string name="tv5_assignment1">“Erfolg ist nicht endgültig, Scheitern ist nicht fatal: Der Mut zum Weitermachen zählt.”</string>
+    <string name="enableDarkMode">Dunkelmodus aktivieren</string>
+    <string name="disableDarkMode">Dunkelmodus deaktivieren</string>
 </resources>

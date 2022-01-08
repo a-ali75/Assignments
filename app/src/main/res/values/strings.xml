@@ -7,4 +7,6 @@
     <string name="tv3_assignment1">“You are never too old to set another goal or to dream a new dream.”</string>
     <string name="tv4_assignment1">“You define your own life. Don’t let other people write your script.”</string>
     <string name="tv5_assignment1">“Success is not final, failure is not fatal: it is the courage to continue that counts.”</string>
+    <string name="enableDarkMode">Enable Dark Mode</string>
+    <string name="disableDarkMode">Disable Dark Mode</string>
 </resources>

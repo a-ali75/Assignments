@@ -8,4 +8,6 @@
     <string name="tv3_assignment1">“Vous n\'êtes jamais trop vieux pour vous fixer un autre objectif ou pour rêver un nouveau rêve.”</string>
     <string name="tv4_assignment1">“Vous définissez votre propre vie. Ne laissez pas d\'autres personnes écrire votre script.”</string>
     <string name="tv5_assignment1">“Le succès n\'est pas définitif, l\'échec n\'est pas fatal : c\'est le courage de continuer qui compte.”</string>
+    <string name="enableDarkMode">activer le mode sombre</string>
+    <string name="disableDarkMode">désactiver le mode sombre</string>
 </resources>

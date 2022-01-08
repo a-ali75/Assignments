@@ -11,10 +11,25 @@
         android:id="@+id/btnAssignment1"
         android:layout_width="190dp"
         android:layout_height="65dp"
-        android:text="@string/btnAssignment1"
+        android:layout_marginBottom="332dp"
         android:fontFamily="monospace"
+        android:text="@string/btnAssignment1"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Switch
+        android:id="@+id/switchThemeMode"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_marginTop="10dp"
+        android:padding="8dp"
+        android:fontFamily="sans-serif-condensed-light"
+        android:textStyle="bold"
+        android:text="@string/enableDarkMode"
+        app:layout_constraintBottom_toTopOf="@+id/btnAssignment1"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.152" />
 </androidx.constraintlayout.widget.ConstraintLayout>
